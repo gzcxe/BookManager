@@ -3,7 +3,7 @@ This project is a very simple book management system, this practice small projec
 
 In the front end, I wrote a lot. I used native HTML + CSS +js and used bootstrap jquery ajax, which realized a lot of small functions. In the back end, I only used native servlets
 
-[![http://gzcxe.cn/store/ava/000/00/00/01_100.jpg]()](http://gzcxe.cn)
+[![](http://gzcxe.cn/store/ava/000/00/00/01_100.jpg)](http://gzcxe.cn)
 # How to quickly deploy and run this project
 * Install jdk8 or later
 * Install tomcat7 or later
