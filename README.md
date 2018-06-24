@@ -1,7 +1,7 @@
 # BookManager
 这个项目是一个很菜很简单的图书管理系统，该练手小项目希望能帮助到大家学习用
 
-前端写的比较多，用的原生的html+css+js，用到了bootstrap、jquery、ajax，实现了较多的一些小功能， 后端只是使用了hibernate和原生的servlet
+前端写的比较多，用的原生的html+css+js，用到了bootstrap、jquery、ajax，实现了较多的一些小功能， 后端只是使用了原生的servlet
 
 [我的个人网站](http://gzcxe.cn)
 # 如何快速部署运行本项目
